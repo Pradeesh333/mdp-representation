@@ -44,7 +44,7 @@ R = {+1 if state = 3}
 
 ### Graphical Representation
 
-![](op1.png)
+![](1.png)
 
 ## PYTHON REPRESENTATION:
 
